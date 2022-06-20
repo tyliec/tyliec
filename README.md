@@ -2,7 +2,7 @@
 
 Where my bi-weekly stipends currently come from: @GitHub
 
-You can probably catch me at the https://codeforhawaii.org/ meetups
+You can probably catch me at the https://www.codeforhawaii.org/ meetups
 
 ## Miscellaneous Projects
 
