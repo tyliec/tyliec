@@ -26,7 +26,6 @@ Paused:
 Struggling through https://omscs.gatech.edu/
 
 **Currently Taking**
-- Graduate Intro to OS
 - AI Ethics Society
 
 **Previously Taken**
