@@ -22,9 +22,6 @@ Previous:
 
 Struggling through https://omscs.gatech.edu/
 
-**Currently Taking**
-- Artificial Intelligence Techniques for Robotics
-
 **Previously Taken**
 - Human Computer Interaction
 - Intro Health Informatics
