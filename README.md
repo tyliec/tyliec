@@ -15,7 +15,7 @@ Previous:
 
 ## Miscellaneous
 
-- You can probably catch me at the [https://www.codeforhawaii.org/](https://codewithaloha.org/) meetups
+- You can probably catch me at the [https://codewithaloha.org/](https://codewithaloha.org/) meetups
 - Travel pics: https://tyliec.netlify.app/
 
 ### OMSCS
@@ -32,4 +32,4 @@ Struggling through https://omscs.gatech.edu/
 - AI Ethics Society
 
 ## Socials
-- boba#0001 on Discord
+- `boba.zip` on Discord
