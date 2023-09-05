@@ -22,6 +22,10 @@ Previous:
 
 Struggling through https://omscs.gatech.edu/
 
+**Currently Taking**
+- Introduction to Information Security
+- Educational Technology
+
 **Previously Taken**
 - Human Computer Interaction
 - Intro Health Informatics
