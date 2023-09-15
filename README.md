@@ -1,5 +1,7 @@
 # 👋 Why Hello There
 
+[![An image of @tyliec's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tyliec)](https://holopin.io/@tyliec)
+
 ## Work
 
 This is where my semi-monthly "stipends" currently come from: @GitHub
