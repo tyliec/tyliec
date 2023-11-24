@@ -23,8 +23,8 @@ Previous:
 Struggling through https://omscs.gatech.edu/
 
 **Currently Taking**
-- Introduction to Information Security
-- Educational Technology
+- Artificial Intelligence
+- Modeling, Simulation and Military Gaming
 
 **Previously Taken**
 - Human Computer Interaction
@@ -34,6 +34,7 @@ Struggling through https://omscs.gatech.edu/
 - Network Security
 - Network Science
 - AI Ethics Society
+- Introduction to Information Security
 
 ## Socials
 - `boba.zip` on Discord
