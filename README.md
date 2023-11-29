@@ -2,25 +2,59 @@
 
 ## Work
 
-This is where my semi-monthly "stipends" currently come from: @GitHub
+**GitHub** :octocat:
+
+```
+https://www.youtube.com/watch?v=pBy1zgt0XPc
+
+Github Enterprise (https://youtu.be/mkiDkkdGGAQ)
+- https://github.com/enterprise (https://docs.github.com/en/enterprise-server)
+```
 
 Previous:
-- @amazon
+
+<details>
+  <summary>Amazon</summary>
+  
+```
+- Alexa Viewhost Web
+  - https://developer.amazon.com/en-US/docs/alexa/web-api-for-games/alexa-games-about.html
+  - https://github.com/alexa/apl-viewhost-web
+  - https://github.com/alexa/apl-client-library
+
+- Alexa Games (https://youtu.be/WA20rRVfe1Y?t=30)
+  - Skill Flow Builder - https://github.com/alexa-games/skill-flow-builder
+  - Xbox for Alexa Skill - https://www.amazon.com/Microsoft-Xbox/dp/B07H25BSCN
+  - "Alexa" for Discord - https://vimeo.com/435415946
+```
+</details>
 
 ## Projects
 
 - https://hawaiizoningatlas.com - Interactive map showing how outdated zoning laws make it hard to build diverse, affordable housing in Hawaii.
 - https://hpdstats.com - Mapping the statistics of the arrests of the Honolulu Police Department (might take a bit to load)
+- https://www.hierr.online/ > https://values.hierr.online/ - A demographic survey tool wrapped around pol.is to figure out the right actions toward a more resilient economy
+- https://uipa.org - Helping submit, track, and share public records requests (FOIA) in Hawaii
 - "Alexa" but for Discord. Video Demo: https://vimeo.com/435415946
 
 ## Miscellaneous
 
-- You can probably catch me at the [https://codewithaloha.org/](https://codewithaloha.org/) meetups
-- Travel pics: https://tyliec.netlify.app/
+<details>
+<summary><a href="https://codewithaloha.org/">Organizer @ Code With Aloha (ex-Code for Hawaii)</a></summary>
+
+```
+Code With Aloha (Previously known as Code for Hawaii) was a Code for America Brigade, but is now a member of the Alliance of Civic Technologists.
+We are volunteers interested in open data, open knowledge, civic apps, big data, data visualization, APIs and the application of technology to make our communities better.
+
+We encourage civic engagement and collaboration with our local government.
+We are engaged citizens with backgrounds and interest in technology, design, business management, policy and good government.
+```
+
+</details>
 
 ### OMSCS
 
-Struggling through https://omscs.gatech.edu/
+Going through https://omscs.gatech.edu/
 
 **Currently Taking**
 - Artificial Intelligence
@@ -38,3 +72,5 @@ Struggling through https://omscs.gatech.edu/
 
 ## Socials
 - `boba.zip` on Discord
+- Travel pics: https://tyliec.netlify.app/
+
