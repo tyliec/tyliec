@@ -43,6 +43,8 @@ Previous:
 <summary><a href="https://codewithaloha.org/">Organizer @ Code With Aloha (ex-Code for Hawaii)</a></summary>
 
 ```
+https://www.meetup.com/code-with-aloha/
+
 Code With Aloha (Previously known as Code for Hawaii) was a Code for America Brigade, but is now a member of the Alliance of Civic Technologists.
 We are volunteers interested in open data, open knowledge, civic apps, big data, data visualization, APIs and the application of technology to make our communities better.
 
