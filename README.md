@@ -54,9 +54,10 @@ We are engaged citizens with backgrounds and interest in technology, design, bus
 
 </details>
 
-### OMSCS
+<details>
+  <summary>OMSCS @ GaTech</summary>
 
-Going through https://omscs.gatech.edu/
+Program Link: https://omscs.gatech.edu/
 
 **Currently Taking**
 - Artificial Intelligence
@@ -71,6 +72,14 @@ Going through https://omscs.gatech.edu/
 - Network Science
 - AI Ethics Society
 - Introduction to Information Security
+
+</details>
+
+<details>
+  <summary>Geocaching</summary>
+
+  <a href="https://project-gc.com/ProfileStats/tyliecc" target="_top"><img src="https://cdn2.project-gc.com/ProfileStatsImage/tyliecc" width="750"></a>
+</details>
 
 ## Socials
 - `boba.zip` on Discord
