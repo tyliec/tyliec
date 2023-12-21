@@ -85,10 +85,5 @@ Program Link: https://omscs.gatech.edu/
 - `boba.zip` on Discord
 - Travel pics: https://tyliec.netlify.app/
 
-<details>
-  <summary>Here Be Dragons</summary>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=tyliec.github&left_color=green&right_color=red)
-
-</details>
+![](https://komarev.com/ghpvc/?username=tyliec)
 
