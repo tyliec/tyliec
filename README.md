@@ -57,13 +57,13 @@ We are engaged citizens with backgrounds and interest in technology, design, bus
 <details>
   <summary>OMSCS @ GaTech</summary>
 
+Made it out of GaTech's OMSCS program only at the expense of my sanity. Came for the knowledge, stayed because of the sunken cost fallacy induced Stockholm syndrome.
+
 Program Link: https://omscs.gatech.edu/
 
-**Currently Taking**
+**Courses Taken**
 - Artificial Intelligence
 - Modeling, Simulation and Military Gaming
-
-**Previously Taken**
 - Human Computer Interaction
 - Intro Health Informatics
 - Knowledge Based AI
